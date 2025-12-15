@@ -1,8 +1,5 @@
 # junin
 
-### salve
-
-
 
 ![junin GitHub stats](https://github-readme-stats.vercel.app/api?username=junin&show_icons=true&theme=radical)
 
